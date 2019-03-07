@@ -2,6 +2,7 @@
 
 def square_array(numbers)
   # your code here
-  new 
+  new_numbers = []
+  
   
   end
