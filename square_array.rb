@@ -1,3 +1,9 @@
+
+
 def square_array(array)
   # your code here
-end
+  array.each do |array|
+    puts array
+  end 
+  square_array(array) 
+  end
